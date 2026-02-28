@@ -63,6 +63,10 @@ This project analyzes employee attrition using SQL, Power BI, and Tableau to ide
 ---
 
 ## 🖼️ Dashboard Preview
-![Dashboard Preview](screenshots/dashboard.png)
+![Dashboard Preview]
+<img width="1007" height="687" alt="excel dashboard" src="https://github.com/user-attachments/assets/cf3206ac-88cc-4ae1-9ce9-1c494603683c" />
+
+
 
 ---
+
